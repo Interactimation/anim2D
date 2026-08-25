@@ -4,7 +4,7 @@ layout: default
 
 # ART115 Animation I — 2D
 
-<img src="{{ '/pix/ANIM1.ico' | relative_url }}" alt="Animation I Logo" style="width:500px">
+<img src="{{ '/pix/ANIM1.png' | relative_url }}" alt="Animation I Logo" style="width:500px">
 
 ## Table of Contents
 
